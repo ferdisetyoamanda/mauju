@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import LoginForm from '../../components/login/Login';
 import RegisterForm from '../../components/register/Register';
+import left from '../../assets/left.png';
 
 const PageDashboard = () => {
     const [isLogin, setIsLogin] = useState(true);
@@ -22,6 +23,11 @@ const PageDashboard = () => {
                         </button>
                     </div>
                 </div>
+                <img 
+                    src={left} 
+                    alt="Left" 
+                    className="absolute bottom-0 left-0 w-84 h-52 object-contain" // Atur posisi dan ukuran sesuai keinginan
+                />
                 
             </div>
 
