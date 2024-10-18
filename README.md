@@ -21,5 +21,5 @@ Currently, two official plugins are available:
 @vitejs/plugin-react-swc uses SWC for Fast Refresh.
 > [Author by Ferdi Setyo Amanda]
 Link =>
-GoFinance](https://mauju-pt.netlify.app/)
+[GoFinance](https://mauju-pt.netlify.app/)
 a
