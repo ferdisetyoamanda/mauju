@@ -22,4 +22,3 @@ Currently, two official plugins are available:
 > [Author by Ferdi Setyo Amanda]
 Link =>
 [GoFinance](https://mauju-pt.netlify.app/)
-a
