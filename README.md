@@ -7,9 +7,12 @@ To get started with this template, clone the repository and install dependencies
 
 Clone the repository:
 git clone <repository-url>
+
 cd <repository-directory>
+
 Install dependencies:
 npm install
+
 npm run dev
 Access the App
 
